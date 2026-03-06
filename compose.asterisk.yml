@@ -1,4 +1,4 @@
-# Llamenos Co-op Cloud — Asterisk PBX overlay
+# Llámenos Co-op Cloud — Asterisk PBX overlay
 #
 # Enable by adding to COMPOSE_FILE in app config:
 #   COMPOSE_FILE="compose.yml:compose.asterisk.yml"

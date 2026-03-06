@@ -1,4 +1,4 @@
-# Llamenos Co-op Cloud — Whisper transcription overlay
+# Llámenos Co-op Cloud — Whisper transcription overlay
 #
 # Enable by adding to COMPOSE_FILE in app config:
 #   COMPOSE_FILE="compose.yml:compose.transcription.yml"

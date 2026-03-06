@@ -1,4 +1,4 @@
-# Llamenos Co-op Cloud — Signal messaging overlay
+# Llámenos Co-op Cloud — Signal messaging overlay
 #
 # Enable by adding to COMPOSE_FILE in app config:
 #   COMPOSE_FILE="compose.yml:compose.signal.yml"

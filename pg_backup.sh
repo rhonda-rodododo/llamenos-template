@@ -1,5 +1,5 @@
 #!/bin/bash
-# Manual PostgreSQL backup for Llamenos Co-op Cloud deployments.
+# Manual PostgreSQL backup for Llámenos Co-op Cloud deployments.
 # Usage: ./pg_backup.sh <stack-name> [backup-dir]
 #
 # Examples:

@@ -1,4 +1,4 @@
-# Llamenos Co-op Cloud Recipe
+# Llámenos Co-op Cloud Recipe
 #
 # Deploy with abra:
 #   abra app new llamenos
@@ -8,7 +8,7 @@
 #
 # Services:
 #   web      - Nginx reverse proxy (Traefik integration)
-#   app      - Llamenos application (Node.js)
+#   app      - Llámenos application (Node.js)
 #   db       - PostgreSQL database
 #   minio    - S3-compatible blob storage
 #   relay    - Nostr relay for real-time events
